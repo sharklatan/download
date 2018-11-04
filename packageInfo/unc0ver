@@ -1,7 +1,7 @@
 {
 	"name": null,
 	"desc_short": "UNC0VER",
-	"desc_long": null,
+	"desc_long": "<a href="http://example.com/some-page" onclick="window.open('http://example.com/other-page')">link name</a>",
 	"compatitle": "iOS 11.0 ~ 11.4 B3",
 	"changelog": null,
 	"screenshot": null,
