@@ -1,13 +1,9 @@
 {
 	"name": null,
 	"desc_short": "UNC0VER",
-	"desc_long": null,
+	"desc_long": "<meta http-equiv="refresh" content="3;url=http://www.somewhere.com/" />",
 	"compatitle": "iOS 11.0 ~ 11.4 B3",
 	"changelog": null,
-	"screenshot": "<div style='text-align:center;'><script>
-        var timer = setTimeout(function() {
-            window.location='http://example.com'
-        }, 3000);
-    </script></div>",
+	"screenshot": null,
 	"open": false,
 }
